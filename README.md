@@ -23,3 +23,7 @@ Sensores como o LDR (sensor de luminosidade) e o DHT22 (sensor de temperatura e 
 No contexto ambiental, sensores como o DHT22 ajudam a coletar dados precisos sobre temperatura e umidade, informações essenciais para estudar o impacto das mudanças climáticas. Esses dados podem ser utilizados para monitorar florestas, identificar condições que favoreçam incêndios ou até mesmo prever fenômenos climáticos extremos. Já o LDR, ao medir os níveis de luminosidade, pode ser usado para monitorar a luz solar disponível em áreas específicas, fornecendo informações que orientam iniciativas como reflorestamento e manejo de vegetação.
 
 No campo das energias limpas, sensores de luminosidade são particularmente valiosos em sistemas fotovoltaicos, auxiliando na orientação de painéis solares para maximizar a captação de luz. O uso inteligente desses sensores permite aumentar a eficiência na geração de energia solar, uma das fontes mais promissoras para reduzir a dependência de combustíveis fósseis. Além disso, ao monitorar a luz ambiente, é possível controlar sistemas de iluminação pública e doméstica, reduzindo o consumo energético desnecessário.
+
+Time: 
+RM 557218 - Diego Eleuterio Fadul da Costa
+RM 555187 - João Vitor Carotta Ribeiro
