@@ -1,4 +1,4 @@
-##Detalhamento do Projeto
+Detalhamento do Projeto
 Objetivo:
 Criar um sistema IoT com ESP32 que:
 
