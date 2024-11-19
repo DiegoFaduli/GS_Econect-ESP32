@@ -106,5 +106,4 @@ void reconnect_mqtt() {
 }
 
 bool readDHT22(int pin, float *temperature, float *humidity) {}#include <WiFi.h>
-#include <PubSubClient.h>
 
