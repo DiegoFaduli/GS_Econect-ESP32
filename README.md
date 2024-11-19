@@ -16,6 +16,9 @@ Mede os valores do LDR e do DHT22 periodicamente.
 Publica os dados em tópicos MQTT específicos.
 Controla os LEDs de acordo com os limites definidos.
 
+Pré-requisitos:
+Ter a biblioteca WiFi.H e a biblioteca PubSubClient.H instaladas no seu terminal para que haja conexão com o broker MQTT.
+
 O ESP32 conecta-se à rede Wi-Fi e publica os valores do LDR, temperatura e umidade em um broker MQTT. 
 Os LEDs indicam condições críticas de luminosidade e temperatura, enquanto dispositivos externos podem monitorar os valores em tempo real via MQTT.
 Sensores como o LDR (sensor de luminosidade) e o DHT22 (sensor de temperatura e umidade) desempenham um papel crucial na preservação do meio ambiente e na transição para fontes de energia limpa e renovável. Esses dispositivos, quando integrados a sistemas inteligentes, permitem monitorar e otimizar o uso de recursos naturais, promovendo eficiência energética e sustentabilidade.
